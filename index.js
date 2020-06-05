@@ -5,13 +5,6 @@ import './style.css';
 import SaveWordCloudToImage from './SaveWordCloudToImage';
 
 class App extends Component {
-  constructor() {
-    super();
-    this.state = {
-      name: 'React'
-    };
-  }
-
   render() {
     return (
       <div>
